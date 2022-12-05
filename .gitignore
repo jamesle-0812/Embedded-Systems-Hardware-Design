@@ -1,0 +1,14 @@
+build/
+*~
+*.o
+deps/
+.depsdir
+simple_monitor.*
+openocd.log
+make_version
+version.c
+.vscode/
+*.zip
+History/
+Project*Logs*for*Template_W2022/
+Project*Outputs*for*Template_W2022/
